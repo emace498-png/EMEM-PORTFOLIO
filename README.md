@@ -1,6 +1,6 @@
 # Hi, I'm Emem.
 
-I'm a Data analyst with a background in Human Anatomy - now building insightful projects in Excel, SQL and Python.
+I'm a Data analyst with a background in Human Anatomy - now building insightful projects in Excel, SQL, Power B.I and Python.
 
 ## Tools I work with
 - Microsoft Excel
